@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Almog's DevOps Project</title>
+    <title>DevOps Project</title>
 </head>
 <body style="font-family: Arial, sans-serif; margin: 40px;">
 
@@ -13,12 +13,12 @@
     <input type="text" id="testInput" name="testInput" placeholder="Type something here..." style="margin-top: 5px; margin-bottom: 15px;">
     <br>
 
-    <button type="button" id="actionButton" onclick="alert('Button clicked!')" style="padding: 10px 15px; margin-bottom: 15px;">
+	<button type="button" id="actionButton" onclick="alert('Input: ' + document.getElementById('testInput').value)" style="padding: 10px 15px; margin-bottom: 15px;">
         Test Button
     </button>
     <br>
 
-    <a href="https://github.com" id="externalLink" target="_blank">Go to GitHub</a>
+    <a href="https://github.com/almogbb74/Devops-Project" id="externalLink" target="_blank">Github Repository</a>
 
 </body>
 </html>
