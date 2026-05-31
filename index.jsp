@@ -6,7 +6,7 @@
 </head>
 <body style="font-family: Arial, sans-serif; margin: 40px;">
 
-    <h2>Welcome to the CI/CD Pipeline App (Commit Check)</h2>
+    <h2>Welcome to the CI/CD Pipeline App</h2>
     <p>This is a simple JSP application for the final DevOps exercise.</p>
 
     <label for="testInput">Enter validation text:</label><br>
